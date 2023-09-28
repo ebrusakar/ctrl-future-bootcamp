@@ -1,4 +1,10 @@
-# **Ctrl Future Bootcamp**
+CTRL FUTURE BOOTCAMP
+=========================================
+<table><tr>
+<td> <img src="https://www.stendustri.com.tr/images/haberler/2022/02/koc_holding_ile_microsoft_tan_is_birligi_h116956_f396d.jpg" width="200""/> </td>
+<td> <img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png" width="200""/> </td>
+<td> <img src="https://cms.jibecdn.com/prod/ynvgroup-elev8/assets/OPENGRAPH-IMAGE-en-us-1635369201914.png" width="200""/> </td>    
+</tr></table>
 
 
 
@@ -9,6 +15,8 @@ COVID-19 Data Solution for XYZ University
 
 Team 3\
 20 September 2023
+
+<img src="https://github.com/ebrusakar/ctrl-future-bootcamp/blob/main/pipeline_covid.png"  width="900" height="500">
 
 Background
 ----------
